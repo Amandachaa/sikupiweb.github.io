@@ -1,0 +1,10 @@
+body {
+  background: url(bguts.png) no-repeat fixed;-webkit-background-size: 100% 100%;-moz-background-size: 100% 100%;-o-background-size: 100% 100%;background-size: 100% 100%;
+     }
+
+li a#dropdown{
+      width: 96%;
+      height: 50%;
+      background-color: #9BC7D3;
+      padding-left :5px;
+  }
